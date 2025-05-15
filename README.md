@@ -1,6 +1,6 @@
 # Título del Proyecto
 [[Imagen de Portada](https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_8676-487.jpg?semt=ais_hybrid&w=740)
-](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_zcxh7dFJTEJcQ-wX53Z4yjOc6kCtaU1Jb0Neup7f72ObHGiYVVZAcUSP7lJPSo4x_I&usqp=CAU)
+]
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
